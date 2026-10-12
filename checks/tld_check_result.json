@@ -1,0 +1,17 @@
+{
+  "raw_rows": 116600,
+  "raw_not_registrable_count": 2,
+  "raw_not_registrable_values": [
+    "cgs.gov.cz",
+    "szpi.gov.cz"
+  ],
+  "deduped_rows": 115231,
+  "deduped_not_registrable_count": 2,
+  "deduped_not_registrable_values": [
+    "cgs.gov.cz",
+    "szpi.gov.cz"
+  ],
+  "dom_overlap_grouped_split": 0,
+  "registrable_overlap_grouped_split": 0,
+  "unique_dom": 90860
+}
